@@ -1,0 +1,53 @@
+[{
+"Regist1#":"#0593",
+"brand":"Toyota",
+"model":"supra",
+"price":"75000.00",
+"Kml":"20000"
+},
+{
+"Regist2#":"#0206",
+"brand":"Hyundai",
+"model":"Elantra",
+"price":"65000.00",
+"Kml":"3000"
+},
+{
+"Regist3#":"#0495",
+"brand":"Lexus",
+"model":"IS",
+"price":"95000.00",
+"Kml":"15000"
+},
+{
+"Regist4#":"#0582",
+"brand":"Mazda",
+"model":"CX-30",
+"price":"47000.00",
+"Kml":"28000"
+},
+{
+"Regist5#":"#0913",
+"brand":"Toyota",
+"model":"Camry",
+"price":"37000.00",
+"Kml":"25000"
+},
+{
+"type":"Mountain Bike",
+"size":"185cm",
+"price":"23000.00",
+"color":"black"
+},
+{
+"type":"Electric Bike",
+"size":"168cm",
+"price":"25000.00",
+"color":"Green and black"
+},
+{
+"type":"Adult Bike",
+"size":"158cm",
+"price":"20000.00",
+"color":"yellow and black"
+}]
